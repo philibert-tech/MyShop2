@@ -24,7 +24,7 @@ namespace MyShop.WebUI.Tests.Mocks
         {
             get
             {
-                return Request;
+                return request;
             }
         }
 
@@ -33,7 +33,7 @@ namespace MyShop.WebUI.Tests.Mocks
         {
             get
             {
-                return Response;
+                return response;
             }
         }
     }
